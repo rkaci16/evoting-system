@@ -1,0 +1,10 @@
+- XAMPP need to be installed on Pc to open this website on your browser.
+- MySQL server and Apache one need to be turned on.
+
+1. Locate  'eVoting' folder on xampp/htdocs file directory.
+2. Open  localhost/phpadmin on your browser.
+3. Then create a new database named evoting1.
+4. On this database import the file tbl_poll.sql that was placed on the folder.
+(press go)
+5. Write on your browser url:  localhost/eVoting/index.html to see the complete website
+6. write: localhost/eVoting/index.php to see the poll only.
